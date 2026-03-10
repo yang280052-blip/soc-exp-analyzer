@@ -1,5 +1,7 @@
 # Sociological Experiment Data Analyzer (SEDA) 🧪
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/yang280052-blip/soc-exp-analyzer/main/app.py)
+
 A professional, easy-to-use tool for sociologists and students to analyze experiment data with advanced statistical methods.
 
 ## 🌟 Features
